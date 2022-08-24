@@ -1,3 +1,4 @@
+<?php include "Send_Email.php" ?>
 <!DOCTYPE html>
 <html>
     <head>
